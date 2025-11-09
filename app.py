@@ -4,7 +4,6 @@ import pandas as pd
 import librosa
 import pickle
 import tempfile
-import sounddevice as sd
 import soundfile as sf
 from scipy.stats import skew, kurtosis
 from audio_recorder_streamlit import audio_recorder
